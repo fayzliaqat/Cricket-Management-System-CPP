@@ -1,0 +1,13 @@
+# Compiler generated outputs
+*.exe
+*.o
+*.obj
+
+# Build directories
+bin/
+obj/
+
+# IDE settings
+.vscode/
+*.layout
+*.depend
